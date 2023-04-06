@@ -1,0 +1,1438 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <link rel="preconnect" href="https://d3ogvdx946i4sr.cloudfront.net"/>
+<link rel="dns-prefetch" href="https://d3ogvdx946i4sr.cloudfront.net"/>
+<script type="text/javascript">
+        function csmWidgetStart(widgetName) {
+            if (typeof uet == 'function') {
+                uet('bb', widgetName, {wb: 1});
+            }
+        }
+        function csmWidgetEnd(widgetName) {
+            if (typeof uet == 'function') {
+                uex('ld', widgetName, {wb: 1});
+            }
+        }
+    </script>
+    <noscript>
+        <style>
+            .hide-when-no-js {
+                display: none !important;
+            }
+
+            .show-when-no-js {
+                display: block !important;
+            }
+        </style>
+    </noscript>
+
+    <script type="application/javascript">
+            window.adobeAnalyticsEnabled = true;
+        </script>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta name="copyright" content="&copy;2020 Book Depository Ltd." />
+<meta name="author" content="Book Depository" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="google-site-verification" content="ogOme2fCVYq3eJxsHzQiMuXsUIRVwYrtI2Xn-U1nNpc" />
+<meta name="msvalidate.01" content="D45E907CC9A963F78BD3129AAAAFE4F0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge; charset=UTF-8"> <meta name="description" content="Accessory to War by Neil Degrasse Tyson, 9780393064445, available at Book Depository with free delivery worldwide." />
+    <meta name="keywords" content="Neil Degrasse Tyson, Avis Lang" />
+	<meta name="Revisit-After" content="30 days" />
+	<meta name="thumbnail" content="https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/3930/9780393064445.jpg" />
+<link rel="canonical" href="https://www.bookdepository.com/Accessory-War-Neil-Degrasse-Tyson/9780393064445" />
+<title>
+	Accessory to War by Neil Degrasse Tyson - 9780393064445</title>
+
+<!-- Styles -->
+<link rel="shortcut icon" type="image/ico" href="https://d3ogvdx946i4sr.cloudfront.net/favicon.ico" />
+<link rel="apple-touch-icon-precomposed" href="https://d3ogvdx946i4sr.cloudfront.net/apple-touch-icon-rebranded.png" />
+<link rel="stylesheet" href="https://d3ogvdx946i4sr.cloudfront.net/assets/v2.25.102/css/common.css" onload="csmWidgetEnd('css-download');">
+<!--[if lte IE 9]>
+<link rel="stylesheet" href="https://d3ogvdx946i4sr.cloudfront.net/assets/v2.25.102/css/ie/common.css">
+<![endif]-->
+
+<script type="text/javascript">
+    csmWidgetStart('icons-download');
+</script>
+<link rel="preload" href="https://d3ogvdx946i4sr.cloudfront.net/assets/v2.25.102/fonts/bdicons.woff" as="font" type="font/woff2" crossorigin onload="csmWidgetEnd('icons-download');">
+
+<script type="text/javascript">
+    csmWidgetStart('font-download');
+</script>
+
+<script type="text/javascript">
+    csmWidgetStart('css-download');
+</script>
+<script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    
+    window.ga('create', 'UA-41807899-1', 'www.bookdepository.com', {
+        'allowLinker': true,
+        'storage': 'none'
+    });
+    
+
+    function registerPageView() {
+        window.ga('send', 'pageview');
+    }
+    document.addEventListener("DOMContentLoaded", function() {
+        registerPageView();
+    });
+</script>
+
+<script src="https://assets.adobedtm.com/4dfb8f1b14f8/5da63eea0643/launch-8ffac2b531d7.min.js" async>
+    </script>
+</head>
+<body class="">
+<div class="cookie-consent" aria-live="polite">
+        <div class="cookie-consent-content">
+            <h2>We use cookies to improve this site</h2>
+            <p>Cookies are used to provide, analyse and improve our services; provide chat tools; and show<br/>you relevant content on advertising. To learn more about our use of cookies, read our <a href='/help/topic/HelpId/53/How-we-use-cookies#helpContent' target=&quot;_blank&quot;>Cookies Help section</a><h2>Are you happy to accept cookies?</h2>
+        </div>
+        <div class="cookie-consent-buttons">
+            <button rel="nofollow" href="#" class="btn btn-sm btn-yes">
+                Accept cookies</button>
+
+            <button rel="nofollow" href="#" class="btn btn-sm btn-secondary btn-manage">
+                Manage cookies</button>
+        </div>
+    </div>
+<div class="cookie-management" aria-live="polite">
+        <div class="scrollable-content">
+            <div class="cookie-management-content">
+                <h2>Cookie Preferences</h2>
+                <p>We use cookies and similar tools that are necessary to enable you to make purchases, including those used by approved third parties (collectively, "cookies") for the purposes described below.
+     <br/>You can learn more about how we (plus approved third parties) use cookies and how to change your settings by visiting the <a href='/help/topic/HelpId/53/How-we-use-cookies#helpContent' target=&quot;_blank&quot;>Cookies notice</a>. The choices you make here will apply to your interaction with this service on this device.</div>
+            <div class="cookie-management-categories">
+                <div class="cookie-management-category">
+                    <div class="cookie-management-category-title">
+                        <h2>Essential</h2>
+                    </div>
+                    <div class="cookie-management-category-description">
+                        <span>We use cookies to provide our services, </span>
+                        <div>
+                            <div class="additionalInfo wrapping-space"> for example, to keep track of items stored in your shopping basket, prevent fraudulent activity, improve the security of our services, keep track of your specific preferences (such as currency or language preferences), and display features, products and services that might be of interest to you. Because we use cookies to provide you our services, they cannot be disabled when used for these purposes.</div>
+                            <a class="showLess" role="button">Show less</a>
+                        </div>
+                        <a class="showMore" role="button">Show more</a>
+                    </div>
+                </div>
+                <div class="cookie-management-category">
+                    <div class="cookie-management-category-title">
+                        <label for="performanceCheckBox"><h2>Performance and Analytics</h2></label>
+                    </div>
+                    <div class="cookie-management-category-check">
+                        <span class="is-enabled" aria-hidden="true">ON</span>
+                        <span class="is-disabled shown" aria-hidden="true">OFF</span>
+                        <label class="slider-area">
+                            <input type="checkbox" id="performanceCheckBox" role="switch"/>
+                            <span class="slider-button"></span>
+                        </label>
+                    </div>
+                    <div class="cookie-management-category-description">
+                        <span>If you agree, we will use cookies to understand how customers use our services</span>
+                        <div>
+                            <div class="additionalInfo wrapping-space"> (for example, by measuring site visits) so we can make improvements. We use cookies to conduct research and diagnostics to improve our content, products and services, and to measure and analyse the performance of our services.</div>
+                            <a class="showLess" role="button">Show less</a>
+                        </div>
+                        <a class="showMore" role="button">Show more</a>
+                    </div>
+
+                </div>
+                <div class="cookie-management-category">
+                    <div class="cookie-management-category-title">
+                        <label for="advertisingCheckBox"><h2>Advertising</h2></label>
+                    </div>
+                    <div class="cookie-management-category-check">
+                        <span class="is-enabled" aria-hidden="true">ON</span>
+                        <span class="is-disabled shown" aria-hidden="true">OFF</span>
+                        <label class="slider-area">
+                                <input type="checkbox" id="advertisingCheckBox" role="switch"/>
+                                <span class="slider-button"></span>
+                        </label>
+                    </div>
+                    <div class="cookie-management-category-description">
+                        <span>If you agree, we will use cookies to complement your shopping experience, as described in our <a href='/help/topic/HelpId/53/How-we-use-cookies#helpContent' target=&quot;_blank&quot;>Cookie Notice</a></span>
+                        <div>
+                            <div class="additionalInfo wrapping-space"> and serve you certain types of ads relevant to your interests on Book Depository. This includes using third party cookies for the purpose of displaying and measuring ads (see the <a href='/help/topic/HelpId/72/Interest-based-ads#helpContent' target=&quot;_blank&quot;>Interest-Based Ads</a> notice for how we use cookies in serving interest-based ads), measuring the effectiveness of ads, and as necessary for the third party to perform services on behalf of Book Depository.</div>
+                            <a class="showLess" role="button">Show less</a>
+                        </div>
+                        <a class="showMore" role="button">Show more</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="cookie-management-buttons">
+            <button rel="nofollow" href="#" class="btn btn-sm btn-secondary btn-cancel">
+                Cancel</button>
+
+            <button rel="nofollow" href="#" class="btn btn-sm btn-save-settings">
+                Save settings</button>
+        </div>
+    </div>
+<div id="main-data-container" hidden>
+    <div class="metrics_data_events" data-metric-event="PAGE_LOADED" hidden></div>
+</div>
+
+<div class="page-slide">
+    <input type="hidden" id="bd-announcement">
+    <div class="user-nav-wrap ">
+        <div class="user-nav">
+            <ul class="left-nav nav mobile-nav-content" data-order="1">
+                <li><a href="/" class="home-icon-link"><i class="icon-home"></i><span
+                        class="show-non-desktop">Home</span></a></li>
+                <li class="mob-nav-account"><a href="/contactus"><i class="icon-em"></i>Contact us</a></li>
+                <li class="mob-nav-account"><a rel="nofollow" href="/help"><i
+                        class="icon-info"></i>Help</a></li>
+            </ul>
+            <div class="middle-nav">
+                    <div class="closing-banner">
+                            <a rel="nofollow"
+                               href="/closure"
+                               title="Book Depository is closing">
+                                 <span class="closing-text">Book Depository is closing</span> &nbsp; <i class="icon-chevron-right"></i>
+                            </a>
+                        </div>
+                    </div>
+            <ul class="right-nav mobile-nav-content" data-order="3">
+                <li class="mob-nav-account"><a rel="nofollow" href="/track"><i
+                                class="icon-order-status"></i>Order Status</a>
+                        </li>
+                    <li class="mob-nav-account"><a rel="nofollow" href="/account/wishlist"><i
+                        class="icon-wishlist"></i>Wishlist</a>
+                </li>
+                <li class="mob-nav-account"><a rel="nofollow" href="/account/login/to/account"><i
+                                class="icon-user"></i>Sign in/Join</a></li>
+                    </ul>
+        </div>
+    </div>
+
+    <div class="header-wrap ">
+        <header class="header ">
+            <div class="non-desktop-header show-non-desktop"></div>
+
+            <div class="primary-wrap">
+                <button class="mobile-trigger" aria-label="Mobile menu"><i class="icon-menu"></i></button>
+
+                <div class="brand-wrap">
+                    <a href="/" class="brand-link">
+                                <img src="https://d3ogvdx946i4sr.cloudfront.net/assets/v2.25.102/img/logo.svg" alt="Bookdepository.com"/>
+                            </a>
+                        </div>
+
+                <div class='copy-content' data-target='.right-section .basket-wrap'></div>
+                <div class="mobile-basket-wrap basket">
+                    <a href="/basket" class="mobile-basket-btn basket-wrap">
+                        <span class="item-count" data-item-count="0">0</span>
+                        <i class="icon-basket"></i>
+                    </a>
+                </div>
+
+                <div class="search-wrap" data-url="//suggestions.bookdepository.com/suggestions">
+                    <form id="book-search-form" action="/search">
+                        <div class="el-wrap header-search-el-wrap">
+                            <input type="text" placeholder="Search for books by keyword / title / author / ISBN"
+                                   aria-label="Search for books by keyword / title / author / ISBN" name="searchTerm" class="text-input"
+                                   value="" spellcheck="false">
+                            <input type="hidden" name="search" value="Find book">
+                            <button aria-label="Search" class="header-search-btn" type="submit"><span
+                                    class="text">Search</span>
+                            </button>
+                        </div>
+                    </form>
+                    <a rel="nofollow" href="/search/advanced" class="advanced-search">Advanced Search</a>
+                </div>
+
+                <div class="free-delivery-wrap">
+                    <div class="free-delivery">
+                        <a rel="nofollow"
+                           href="/help/topic/HelpId/3/Which-countries-do-you-deliver-to#helpContent"
+                           alt="Free delivery worldwide" title="Free delivery worldwide">
+                            <i class="icon-rocket"></i> Free delivery worldwide</a>
+                    </div>
+                </div>
+
+            </div>
+
+        </header>
+    </div>
+
+    <div class='ribbon-wrap '>
+        <div class="free-delivery-ribbon ">
+                <div class="closing-banner-ribbon-item">
+                        <a rel="nofollow" href="/closure"
+                           title="Book Depository is closing">
+                            <span class="closing-text">Book Depository is closing</span> &nbsp; <i class="icon-chevron-right"></i>
+                        </a>
+                    </div>
+                </div>
+    </div>
+
+    <div class="secondary-header-wrap ">
+        <div class="secondary-header">
+            <ul class="page-links mobile-nav-content" data-order="2">
+                <li class="tbd-dropdown category-dropdown mob-nav-shop">
+        <a href="#" class="tbd-dropdown-toggle desktop-only">Shop by category</a>
+        <a href="#" class="tbd-dropdown-toggle show-non-desktop" data-target="category-dropdown-list">Categories</a>
+        <a href="#" class="tbd-dropdown-toggle show-non-desktop" data-target="age-range-dropdown-list">Children's Age Ranges</a>
+        <ul class="tbd-dropdown-menu" hidden>
+            <a href="#" class="global-nav-close desktop-only"><i class="icon-close"></i></a>
+            <li class="tbd-dropdown-header desktop-only"><p>
+                All Categories<p></li>
+            <li class="tbd-dropdown-back show-non-desktop"><a>Browse All</a>
+            <li>
+            <li>
+                <ul class="category-dropdown-list vertical-dropdown-list">
+                    <li class="top-category" data-order="10">
+                                    <a href="/category/2/Art-Photography">
+                                        Art &amp; Photography</a>
+                                </li>
+                            <li data-order="0">
+                                    <a href="/category/3389/Audio-Books">
+                                        Audio Books</a>
+                                </li>
+                            <li class="top-category" data-order="10">
+                                    <a href="/category/213/Biography">
+                                        Biography</a>
+                                </li>
+                            <li data-order="0">
+                                    <a href="/category/928/Business-Finance-Law">
+                                        Business, Finance &amp; Law</a>
+                                </li>
+                            <li class="top-category" data-order="10">
+                                    <a href="/category/2455/Childrens-Books">
+                                        Children&#039;s Books</a>
+                                </li>
+                            <li data-order="0">
+                                    <a href="/category/1897/Computing">
+                                        Computing</a>
+                                </li>
+                            <li class="top-category" data-order="10">
+                                    <a href="/category/2942/Crafts-Hobbies">
+                                        Crafts &amp; Hobbies</a>
+                                </li>
+                            <li class="top-category" data-order="10">
+                                    <a href="/category/2616/Crime-Thriller">
+                                        Crime &amp; Thriller</a>
+                                </li>
+                            <li data-order="0">
+                                    <a href="/category/240/Dictionaries-Languages">
+                                        Dictionaries &amp; Languages</a>
+                                </li>
+                            <li data-order="0">
+                                    <a href="/category/3245/Entertainment">
+                                        Entertainment</a>
+                                </li>
+                            <li class="top-category" data-order="10">
+                                    <a href="/category/333/Fiction">
+                                        Fiction</a>
+                                </li>
+                            <li class="top-category" data-order="10">
+                                    <a href="/category/2858/Food-Drink">
+                                        Food &amp; Drink</a>
+                                </li>
+                            <li class="top-category" data-order="10">
+                                    <a href="/category/2633/Graphic-Novels-Anime-Manga">
+                                        Graphic Novels, Anime &amp; Manga</a>
+                                </li>
+                            <li data-order="0">
+                                    <a href="/category/2770/Health">
+                                        Health</a>
+                                </li>
+                            <li class="top-category" data-order="10">
+                                    <a href="/category/2638/History-Archaeology">
+                                        History &amp; Archaeology</a>
+                                </li>
+                            <li data-order="0">
+                                    <a href="/category/2892/Home-Garden">
+                                        Home &amp; Garden</a>
+                                </li>
+                            <li data-order="0">
+                                    <a href="/category/2978/Humour">
+                                        Humour</a>
+                                </li>
+                            <li data-order="0">
+                                    <a href="/category/1279/Medical">
+                                        Medical</a>
+                                </li>
+                            <li class="top-category" data-order="10">
+                                    <a href="/category/2819/Mind-Body-Spirit">
+                                        Mind, Body &amp; Spirit</a>
+                                </li>
+                            <li data-order="0">
+                                    <a href="/category/2985/Natural-History">
+                                        Natural History</a>
+                                </li>
+                            <li data-order="0">
+                                    <a href="/category/2802/Personal-Development">
+                                        Personal Development</a>
+                                </li>
+                            <li data-order="0">
+                                    <a href="/category/283/Poetry-Drama">
+                                        Poetry &amp; Drama</a>
+                                </li>
+                            <li data-order="0">
+                                    <a href="/category/375/Reference">
+                                        Reference</a>
+                                </li>
+                            <li data-order="0">
+                                    <a href="/category/3120/Religion">
+                                        Religion</a>
+                                </li>
+                            <li data-order="0">
+                                    <a href="/category/2630/Romance">
+                                        Romance</a>
+                                </li>
+                            <li data-order="0">
+                                    <a href="/category/1476/Science-Geography">
+                                        Science &amp; Geography</a>
+                                </li>
+                            <li class="top-category" data-order="10">
+                                    <a href="/category/2623/Science-Fiction-Fantasy-Horror">
+                                        Science Fiction, Fantasy &amp; Horror</a>
+                                </li>
+                            <li data-order="0">
+                                    <a href="/category/632/Society-Social-Sciences">
+                                        Society &amp; Social Sciences</a>
+                                </li>
+                            <li data-order="0">
+                                    <a href="/category/3013/Sport">
+                                        Sport</a>
+                                </li>
+                            <li data-order="0">
+                                    <a href="/category/3385/Stationery">
+                                        Stationery</a>
+                                </li>
+                            <li data-order="0">
+                                    <a href="/category/3328/Teaching-Resources-Education">
+                                        Teaching Resources &amp; Education</a>
+                                </li>
+                            <li data-order="0">
+                                    <a href="/category/1708/Technology-Engineering">
+                                        Technology &amp; Engineering</a>
+                                </li>
+                            <li data-order="0">
+                                    <a href="/category/3391/Teen-Young-Adult">
+                                        Teen &amp; Young Adult</a>
+                                </li>
+                            <li data-order="0">
+                                    <a href="/category/2967/Transport">
+                                        Transport</a>
+                                </li>
+                            <li data-order="0">
+                                    <a href="/category/3098/Travel-Holiday-Guides">
+                                        Travel &amp; Holiday Guides</a>
+                                </li>
+                            </ul>
+            </li>
+            <li class="tbd-dropdown-header desktop-only"><p>Children's books by age range</p>
+            </li>
+            <li>
+                <ul class="age-range-dropdown-list">
+                    <li>
+                            <a href="/category/3392/Books-for-Ages-0-2">
+                                Ages 0-2</a>
+                        </li>
+                    <li>
+                            <a href="/category/3393/Books-for-Ages-3-5">
+                                Ages 3-5</a>
+                        </li>
+                    <li>
+                            <a href="/category/3394/Books-for-Ages-6-8">
+                                Ages 6-8</a>
+                        </li>
+                    <li>
+                            <a href="/category/3395/Books-for-Ages-9-11">
+                                Ages 9-11</a>
+                        </li>
+                    <li>
+                            <a href="/category/3391/Teen-Young-Adult">
+                                Teen &amp; Young Adult</a>
+                        </li>
+                    </ul>
+            </li>
+            <li class="tbd-dropdown-editableLinks">
+                <div class="carousel-container block-wrap sidebar ">
+		    <div id="Top Authors" class="block-header">
+                    <h2>Top Authors</h2>
+                    </div>
+			<div class="block ">
+				<!-- View layer for tabs (carousels, etc.) - micro-service, non-BDI based -->
+<div class="tab-wrap module type-link grid tab-6269 tab-active">
+
+		<div class="tab">
+			<a href="/author/J-K-Rowling" class="link-item-text-only link-item">
+                            <div class="link-text">J. K. Rowling</div>
+                            </a>
+					<a href="/roald-dahl" class="link-item-text-only link-item">
+                            <div class="link-text">Roald Dahl</div>
+                            </a>
+					<a href="/julia-donaldson" class="link-item-text-only link-item">
+                            <div class="link-text">Julia Donaldson</div>
+                            </a>
+					<a href="/stephen-king" class="link-item-text-only link-item">
+                            <div class="link-text">Stephen King</div>
+                            </a>
+					<a href="/david-walliams" class="link-item-text-only link-item">
+                            <div class="link-text">David Walliams</div>
+                            </a>
+					<a href="/author/Dr-Seuss" class="link-item-text-only link-item">
+                            <div class="link-text">Dr. Seuss</div>
+                            </a>
+					<a href="/andy-griffiths" class="link-item-text-only link-item">
+                            <div class="link-text">Andy Griffiths</div>
+                            </a>
+					<a href="/author/James-Patterson" class="link-item-text-only link-item">
+                            <div class="link-text">James Patterson</div>
+                            </a>
+					<a href="/author/Sarah-J-Maas" class="link-item-text-only link-item">
+                            <div class="link-text">Sarah J. Maas</div>
+                            </a>
+					<a href="/enid-blyton" class="link-item-text-only link-item">
+                            <div class="link-text">Enid Blyton</div>
+                            </a>
+					<a href="/john-green" class="link-item-text-only link-item">
+                            <div class="link-text">John Green</div>
+                            </a>
+					<a href="/author/Brandon-Sanderson" class="link-item-text-only link-item">
+                            <div class="link-text">Brandon Sanderson</div>
+                            </a>
+					<a href="/popular-authors" class="link-item-text-only link-item">
+                            <div class="link-text">See all</div>
+                            </a>
+					</div>
+	</div>
+
+    </div>
+			</div>
+	<div class="carousel-container block-wrap sidebar ">
+		    <div id="Bestselling Series" class="block-header">
+                    <h2>Bestselling Series</h2>
+                    </div>
+			<div class="block ">
+				<!-- View layer for tabs (carousels, etc.) - micro-service, non-BDI based -->
+<div class="tab-wrap module type-link grid tab-6270 tab-active">
+
+		<div class="tab">
+			<a href="/harry-potter" class="link-item-text-only link-item">
+                            <div class="link-text">Harry Potter</div>
+                            </a>
+					<a href="/game-of-thrones" class="link-item-text-only link-item">
+                            <div class="link-text">Game Of Thrones</div>
+                            </a>
+					<a href="/lego" class="link-item-text-only link-item">
+                            <div class="link-text">Lego</div>
+                            </a>
+					<a href="/divergent-trilogy" class="link-item-text-only link-item">
+                            <div class="link-text">Divergent</div>
+                            </a>
+					<a href="/search/advanced?seriesId=478050" class="link-item-text-only link-item">
+                            <div class="link-text">Throne Of Glass</div>
+                            </a>
+					<a href="/star-wars" class="link-item-text-only link-item">
+                            <div class="link-text">Star Wars</div>
+                            </a>
+					</div>
+	</div>
+
+    </div>
+			</div>
+	<div class="carousel-container block-wrap sidebar ">
+		    <div id="Books By Language" class="block-header">
+                    <h2>Books By Language</h2>
+                    </div>
+			<div class="block ">
+				<!-- View layer for tabs (carousels, etc.) - micro-service, non-BDI based -->
+<div class="tab-wrap module type-link grid tab-11793 tab-active">
+
+		<div class="tab">
+			<a href="/spanish" class="link-item-text-only link-item">
+                            <div class="link-text">Books in Spanish</div>
+                            </a>
+					<a href="/polish-books" class="link-item-text-only link-item">
+                            <div class="link-text">Books in Polish</div>
+                            </a>
+					<a href="/german-books" class="link-item-text-only link-item">
+                            <div class="link-text">Books in German</div>
+                            </a>
+					<a href="/french-books" class="link-item-text-only link-item">
+                            <div class="link-text">Books in French</div>
+                            </a>
+					<a href="/languages" class="link-item-text-only link-item">
+                            <div class="link-text">Languages Bookshop</div>
+                            </a>
+					</div>
+	</div>
+
+    </div>
+			</div>
+	</li>
+        </ul>
+    </li>
+<li class="mob-nav-shop"><a href="/bestsellers">Bestsellers</a></li>
+                <li class="mob-nav-shop">
+                        <a href="/closure">
+                            Closure FAQs</a>
+                    </li>
+                <li class="mob-nav-shop copy-content hidden-lg" data-target=".language-selector-wrap"></li>
+            </ul>
+            <div class="right-section">
+                <div data-order="4">
+                    <div class="language-selector-wrap">
+                        <div class="tbd-dropdown mob-nav-shop desktop-only">
+    <a href="#" class="tbd-dropdown-toggle desktop-only">
+        English</a>
+    <div class="metrics_data_container" data-datalayer-reader="locale" data-page-locale="en_US" hidden></div>
+    <ul class="tbd-dropdown-menu" hidden>
+        <a href="#" class="global-nav-close"><i class="icon-close" ></i></a>
+        <li>
+            <ul class="language-list vertical-dropdown-list">
+                <li class="tbd-dropdown-header"><p>Languages</p></li>
+                <li>
+                        <a class="language-option" href="#" data-value="en_US">
+                            English</a>
+                    </li>
+                <li>
+                        <a class="language-option" href="#" data-value="es_ES">
+                            Spanish (Español)</a>
+                    </li>
+                </ul>
+        </li>
+    </ul>
+</div>
+<form method="post" action="" class="show-non-desktop">
+    <div class="language-selector mob-nav-shop" title="English">
+        <select name="selectLanguage" id="selectLanguage">
+            <option value="en_US"  selected='selected' >
+                    English</option>
+            <option value="es_ES"   >
+                    Español</option>
+            </select>
+    </div>
+</form>
+</div>
+                </div>
+                <div class="currency-selector-wrap mobile-nav-content" data-order="5">
+                    <form method="post" action="/isbn/9780393064445">
+	<div class="currency-selector mob-nav-account" title="Euro">
+		<select name="selectCurrency" id="selectCurrency">
+			<option value="AUD"   >
+					$&nbsp;AUD</option>
+			<option value="EUR"  selected='selected' >
+					€&nbsp;EUR</option>
+			<option value="USD"   >
+					$&nbsp;USD</option>
+			<option value="GBP"   >
+					£&nbsp;GBP</option>
+			<option value="NZD"   >
+					$&nbsp;NZD</option>
+			<option value="SGD"   >
+					$&nbsp;SGD</option>
+			<option value="CAD"   >
+					$&nbsp;CAD</option>
+			<option value="AED"   >
+					AED</option>
+			<option value="ARS"   >
+					$&nbsp;ARS</option>
+			<option value="BGN"   >
+					Лв.&nbsp;BGN</option>
+			<option value="BRL"   >
+					R$&nbsp;BRL</option>
+			<option value="CHF"   >
+					SFr.&nbsp;CHF</option>
+			<option value="CLP"   >
+					$&nbsp;CLP</option>
+			<option value="COP"   >
+					$&nbsp;COP</option>
+			<option value="CZK"   >
+					Kč&nbsp;CZK</option>
+			<option value="DKK"   >
+					Kr&nbsp;DKK</option>
+			<option value="EGP"   >
+					E£&nbsp;EGP</option>
+			<option value="HKD"   >
+					$&nbsp;HKD</option>
+			<option value="HUF"   >
+					Ft&nbsp;HUF</option>
+			<option value="IDR"   >
+					Rp&nbsp;IDR</option>
+			<option value="ILS"   >
+					₪&nbsp;ILS</option>
+			<option value="INR"   >
+					₹&nbsp;INR</option>
+			<option value="JPY"   >
+					¥&nbsp;JPY</option>
+			<option value="KRW"   >
+					￦&nbsp;KRW</option>
+			<option value="MXN"   >
+					$&nbsp;MXN</option>
+			<option value="MYR"   >
+					RM&nbsp;MYR</option>
+			<option value="NOK"   >
+					Kr&nbsp;NOK</option>
+			<option value="PEN"   >
+					S/&nbsp;PEN</option>
+			<option value="PHP"   >
+					₱&nbsp;PHP</option>
+			<option value="PLN"   >
+					zł&nbsp;PLN</option>
+			<option value="QAR"   >
+					QR&nbsp;QAR</option>
+			<option value="RON"   >
+					L&nbsp;RON</option>
+			<option value="SAR"   >
+					SAR</option>
+			<option value="SEK"   >
+					Kr&nbsp;SEK</option>
+			<option value="THB"   >
+					฿&nbsp;THB</option>
+			<option value="TRY"   >
+					₺&nbsp;TRY</option>
+			<option value="TWD"   >
+					$&nbsp;TWD</option>
+			<option value="UYU"   >
+					$&nbsp;UYU</option>
+			<option value="ZAR"   >
+					R&nbsp;ZAR</option>
+			</select>
+	</div>
+</form></div>
+                <div class="basket-wrap">
+                    <span class="total">0,00 €</span>
+                    <a rel="nofollow" href="/basket" class="basket-btn">
+                    <span class="item-count">
+                        0</span>
+                        <i class="icon-basket"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="metrics_data_container"
+         data-val="guest"
+         data-datalayer-reader="loginStatus" hidden></div>
+
+<div class="content-wrap">
+        <div class="metrics_data_container" data-datalayer-reader="pageType" data-page-type="detail" hidden></div>
+    <div class="metrics_data_container" data-datalayer-reader="pageName" data-page-name="detail" hidden></div>
+    <div class="metrics_data_container" data-datalayer-reader="sitesection" data-page-sitesection="detail" hidden></div>
+    <div class="metrics_data_container"
+         data-datalayer-reader="sitesection2"
+         data-page-sitesection="Book Accessory to War" hidden
+    ></div>
+    <div onclick="void(0);">
+        <div class="main-content no-borders book-page full-width">
+            <ol class="breadcrumb">
+                        <li class="title">Categories:</li>
+                        <li>
+                                <a href="/category/862/Central-Government-Policies" >
+                                            Central Government Policies</a>
+                                    </li>
+                        <li>
+                                <a href="/category/865/International-Relations" >
+                                            International Relations</a>
+                                    </li>
+                        <li>
+                                <a href="/category/894/Warfare-Defence" >
+                                            Warfare &amp; Defence</a>
+                                    </li>
+                        <li>
+                                <a href="/category/895/Theory-Warfare-Military-Science" >
+                                            Theory Of Warfare &amp; Military Science</a>
+                                    </li>
+                        <li>
+                                <a href="/category/1527/Science-Funding-Policy" >
+                                            Science Funding &amp; Policy</a>
+                                    </li>
+                        <li>
+                                <a href="/category/1532/Popular-Science" >
+                                            Popular Science</a>
+                                    </li>
+                        <li>
+                                <a href="/category/1566/Astrophysics" >
+                                            Astrophysics</a>
+                                    </li>
+                        <li>
+                                <a href="/category/1862/Space-Science" >
+                                            Space Science</a>
+                                    </li>
+                        <li>
+                                <a href="/category/1864/Military-Engineering" class='active'>
+                                            Military Engineering</a>
+                                    </li>
+                        </ol>
+                <div class="item-wrap" itemscope itemtype="http://schema.org/Book">
+
+                <div class="item-block">
+                    <meta itemprop="url" content="/Accessory-War-Neil-Degrasse-Tyson/9780393064445" />
+                    <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                <meta itemprop="availability" content="http://schema.org/InStock" />
+                <meta itemprop="itemCondition" content="http://schema.org/NewCondition" />
+            </span>
+
+                    <div class="item-img">
+                        <i class="icon-mobile-zoom"></i>
+                        <div class="item-img-content">
+                            <img src="https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/3930/9780393064445.jpg" alt="Accessory to War" class="book-img" itemprop="image" />
+                            </div>
+                        <div class="copy-content visible-md" data-target=".social-wrap"></div>
+                    </div>
+                    <div class="item-info">
+                        <h1 itemprop="name">Accessory to War : The Unspoken Alliance Between Astrophysics and the Military</h1>
+
+                        <div class="rating-wrap hidden-md" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+                                <a href="#rating-distribution">
+                                    <div class="stars">
+    <span class="star full-star"></span>
+    <span class="star full-star"></span>
+    <span class="star full-star"></span>
+    <span class="star half-star"></span>
+    <span class="star "></span>
+    </div>
+</a>
+                                <span itemprop="ratingValue">
+                                    3.61</span>
+                                <span class="rating-count">
+                                    (4,062 ratings by Goodreads)
+</span>
+                                <meta itemprop="ratingCount" content="4062"/>
+                            </div>
+                        <ul class="meta-info hidden-md">
+                            <li>Hardback</li>
+                            <li>
+                                    <span itemprop="inLanguage" itemtype="http://schema.org/Language">
+                                    <a href="/search/advanced?searchLang=123">English</a></span>
+                                    </li>
+                            </ul>
+
+                        <div class="author-info hidden-md">
+                            By (author)&nbsp;
+
+                                <span itemprop="author" itemtype="http://schema.org/Person" itemscope="Neil Degrasse Tyson">
+                                    <a href="/author/Neil+Degrasse+Tyson" itemprop="url">
+                                <span itemprop="name">
+                                    Neil Degrasse Tyson</span>
+                            </a>
+                                </span>
+                            , By (author)&nbsp;
+
+                                <span itemprop="author" itemtype="http://schema.org/Person" itemscope="Avis Lang">
+                                    <a href="/author/Avis+Lang" itemprop="url">
+                                <span itemprop="name">
+                                    Avis Lang</span>
+                            </a>
+                                </span>
+                            </div>
+                        <ul class="social-wrap hidden-xs hidden-sm hidden-md">
+                                <li class='label'>Share</li>
+                                <li><a href="mailto:?subject=Sharing a book&body=I saw this book at Book Depository and thought you might like it:%0D%0A%0D%0Ahttps://www.bookdepository.com/Accessory-War-Neil-Degrasse-Tyson/9780393064445" target="_blank"><i class="icon-em"></i></a></li>
+
+                                <li><a href="/share/book?id=41214864&service=facebook&mess=book" target="_blank"><i class="icon-fb"></i></a></li>
+
+                                <li><a href="https://twitter.com/intent/tweet?text=I've+discovered+Accessory+to+War&url=https%3a%2f%2fwww.bookdepository.com%2fAccessory-War-Neil-Degrasse-Tyson%2f9780393064445&via=bookdepository" target="_blank"><i class="icon-tw"></i></a></li>
+
+                                <li><a href="http://pinterest.com/pin/create/button/?url=https://www.bookdepository.com/Accessory-War-Neil-Degrasse-Tyson/9780393064445&media=https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/3930/9780393064445.jpg&description=An-exploration-of-the-age-old-complicity-between-sky-watchers-and-war-fighters-from-the-best-selling-author-of-Astrophysics-for-People-in-a-Hurry" target="_blank"><i class="icon-pi"></i></a></li>
+                            </ul>
+                        </div>
+                    <div class="item-tools">
+                        <div class="checkout-tools">
+                            <div class="rating-wrap visible-md">
+                                    <a href="#rating-distribution">
+                                        <div class="stars">
+    <span class="star full-star"></span>
+    <span class="star full-star"></span>
+    <span class="star full-star"></span>
+    <span class="star half-star"></span>
+    <span class="star "></span>
+    </div>
+</a>
+                                    <span>
+                                        3.61</span>
+                                    <span class="rating-count">
+                                        (4,062 ratings by Goodreads)
+</span>
+                                </div>
+                            <div class="price-info-wrap">
+                                <div class="item-info-wrap">
+                                    <div class="copy-content visible-md" data-target=".meta-info"></div>
+                                    <div class="copy-content visible-md" data-target=".author-info"></div>
+                                    <div class="hidden-xs hidden-sm">
+                                                <div class="price item-price-wrap" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+                                                    <span class="sale-price">27,18 €</span>
+                                                        <meta itemprop="priceCurrency" content=EUR />
+                                                        <meta itemprop="price" content=27.18 />
+                                                        </div>
+                                            </div>
+                                            <div class="copy-content visible-md visible-xs visible-sm" data-target=".formats-wrap"></div>
+                                            <div class="free-delivery-text">
+                                                        <i class="icon-rocket"></i>
+                                                        <p>Free delivery worldwide</p>
+                                                    </div>
+                                                    <div id="brexit_no_fee_message" class="gst-disclaimer">
+                                                                <i class="icon-check"></i>
+                                                                <p>Price includes VAT/import taxes for EU delivery</p>
+                                                            </div>
+                                                        <div class="availability-text">
+                                                        <i class="icon-check"></i>
+                                                        <div class="edd-availability-text">
+                                                                    <p>Available. Expected delivery to Portugal in 12-17 business days.</p>
+                                                                        <br/>
+                                                                    <a class="edd-help-page-link" target="_blank"
+                                                                       href="/help/topic/HelpId/2/When-will-my-order-arrive">
+                                                                        Not ordering to Portugal? Click <span class='edd-help-page-link-here'>here.<span/></a>
+                                                                    <br/>
+                                                                </div>
+                                                            </div>
+                                                <br/>
+                                    <div class="availability-text">
+                                            <i class="icon-check" style="visibility: hidden;"></i>
+                                            <p>
+                                            <a class="edd-help-page-link" target="_blank" href="/closure">
+                                                <span class='edd-help-page-link-here'>See our Closure FAQs</span>
+                                            </a>
+                                            </p>
+                                        </div>
+                                    </div>
+                            </div>
+                            <div class="btn-wrap">
+                                <div class="copy-content visible-xs visible-sm" data-target=".item-price-wrap"></div>
+                                <a href="/basket/addisbn/isbn13/9780393064445" class="btn btn-primary add-to-basket" data-isbn="9780393064445" data-price="27.18" data-currency="EUR" data-show-related="true">
+                                            Add to basket<input type="hidden" id="isOmnibusApplicable">
+                                            </a>
+                                    <a rel="nofollow" href="/account/wishlistItemUpdate?mainAction=add&isbn13=9780393064445" data-isbn="9780393064445" class="btn btn-secondary add-to-wishlist">
+                                    Add to wishlist</a>
+                                <div class="copy-content visible-xs visible-sm" data-target=".social-wrap"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item-description">
+                        <h2>Description</h2>
+                        <div class="item-excerpt trunc" itemprop="description" data-height="230">
+
+                            In this fascinating foray into the millennia-long relationship between science and military power, acclaimed astrophysicist and &#034;the world&#039;s best science communicator&#034; (Times Literary Supplement) Neil deGrasse Tyson and writer-researcher Avis Lang examine how the methods and tools of astrophysics have been enlisted in the service of war. &#034;The overlap is strong, and the knowledge flows in both directions&#034;, say the authors, because astrophysicists and military planners care about many of the same things: multi-spectral detection, ranging, tracking, imaging, high ground, nuclear fusion and access to space. Tyson and Lang call it a &#034;curiously complicit&#034; alliance. &#034;The universe is both the ultimate frontier and the highest of high grounds&#034;, they write. &#034;Shared by both space scientists and space warriors, it&#039;s a laboratory for one and a battlefield for the other. The explorer wants to understand it; the soldier wants to dominate it. But without the right technology-which is more or less the same technology for both parties-nobody can get to it, operate in it, scrutinise it, dominate it or use it to their advantage and someone else&#039;s disadvantage.&#034;<br />
+                            <br />
+                             Spanning early celestial navigation to satellite-enabled warfare, Accessory to War is a richly researched and provocative examination of the intersection of science, technology, industry and power that will introduce Tyson&#039;s millions of fans to yet another dimension of how the universe has shaped our lives and our world.<br />
+                            <a class='read-more' tabIndex="0">show more</a>
+                        </div>
+                    </div>
+                <script type="text/javascript">
+  if (ue) {
+    uet('af');
+  }
+</script><div class="biblio-wrap">
+
+                    <div class="biblio-info-wrap">
+                        <h2 class='biblio-title'>
+                            Product details</h2>
+                        <ul class="biblio-info">
+
+                            <li>
+                                    <label>Format</label>
+                                    <span>
+                                Hardback
+                                    | <span itemprop="numberOfPages">576 pages
+</span>
+                                </span>
+                                </li>
+                            <li>
+                                    <label>Dimensions</label>
+                                    <span>
+                                168
+                                    x 244
+                                    x 38mm
+                                
+                                    | 959g
+                                </span>
+                                </li>
+                            <li>
+                                    <label>Publication date</label>
+                                    <span itemprop="datePublished">16 Oct 2018</span>
+                                </li>
+                            <li>
+                                    <label>Publisher</label>
+                                    <span itemprop="publisher" itemtype="http://schema.org/Organization" itemscope="WW Norton & Co">
+                                <a href="/publishers/WW-Norton-Co" itemprop="url">
+                                    <span itemprop="name">
+                                        WW Norton &amp; Co</span>
+                                </a>
+                            </span>
+                                </li>
+                            <li>
+                                    <label>Publication City/Country</label>
+                                    <span>
+                                New York, United States</span>
+                                </li>
+                            <li>
+                                    <label>Language</label>
+                                    <span>
+                                English</span>
+                                </li>
+                            <li>
+                                    <label>ISBN10</label>
+                                    <span>0393064441</span>
+                                </li>
+                            <li>
+                                <label>ISBN13</label>
+                                <span itemprop="isbn">9780393064445</span>
+                            </li>
+
+                            <li>
+                                    <label>Bestsellers rank</label>
+                                    <span>
+                                80,048</span>
+                                </li>
+                            </ul>
+                    </div>
+                </div>
+                </div>
+
+            <div class="detail-page-carousel-wrap">
+
+    </div><ol class="breadcrumb category-footer">
+                    <li class="title">Categories:</li>
+                    <li >
+                            <a href="/category/862/Central-Government-Policies">
+                                        Central Government Policies</a>
+                                </li>
+                    <li >
+                            <a href="/category/865/International-Relations">
+                                        International Relations</a>
+                                </li>
+                    <li >
+                            <a href="/category/894/Warfare-Defence">
+                                        Warfare &amp; Defence</a>
+                                </li>
+                    <li >
+                            <a href="/category/895/Theory-Warfare-Military-Science">
+                                        Theory Of Warfare &amp; Military Science</a>
+                                </li>
+                    <li >
+                            <a href="/category/1527/Science-Funding-Policy">
+                                        Science Funding &amp; Policy</a>
+                                </li>
+                    <li >
+                            <a href="/category/1532/Popular-Science">
+                                        Popular Science</a>
+                                </li>
+                    <li >
+                            <a href="/category/1566/Astrophysics">
+                                        Astrophysics</a>
+                                </li>
+                    <li >
+                            <a href="/category/1862/Space-Science">
+                                        Space Science</a>
+                                </li>
+                    <li class='active'>
+                            <a href="/category/1864/Military-Engineering">
+                                        Military Engineering</a>
+                                </li>
+                    </ol>
+            <div class="item-annotation-wrap" id="item-annotation">
+                    <div class="item-annotation">
+                                <h2>Review quote</h2>
+                                <div class="block text-block trunc" data-height="100">
+                                    &#034;Throughout history, wars tend to be won by nations that are at the forefront of science. Thus astronomers and physicists have, since ancient times, benefited from an uneasy alliance with the military. This enlightening book explores the history and current implications of this partnership between space science and national security.&#034; -- Walter Isaacson, author of Steve Jobs and professor of history, Tulane University &#034;Accessory to War is thought-provoking and reflective...&#034; -- Nature &#034;In Accessory to War, Neil deGrasse Tyson and Avis Lang give a sweeping panoramic overview of the enduring alliance between astrophysics and the military-from the Greeks to Galileo to GPS. The book&#039;s key contribution is in documenting the various ways science has aided military endeavors over the millennia and making the sometimes-arcane source material accessible.&#034; -- Science &#034;... wide-ranging and very readable history of the overlap between science and the military, penned with editor Avis Lang... The book is a fascinating exploration of humanity&#039; s capacity to combine discovery with destruction...&#034; -- BBC Sky at Night<br />
+                                    <a class='read-more' tabIndex="0">show more</a>
+                                </div>
+                            </div>
+                        <div class="item-annotation">
+                                <h2>About Neil Degrasse Tyson</h2>
+                                <div class="block text-block trunc" data-height="100">
+                                    Neil deGrasse Tyson is an astrophysicist with the American Museum of Natural History and the New York Times best-selling author of Astrophysics for People in a Hurry. He lives in New York City. Avis Lang is a research associate at the American Museum of Natural History&#039;s Hayden Planetarium. For half a decade, she edited Tyson&#039;s Natural History magazine column, Universe, parts of which became the basis for his Astrophysics for People in a Hurry, and later edited his anthology Space Chronicles. She lives in New York City.<br />
+                                    <a class='read-more' tabIndex="0">show more</a>
+                                </div>
+                            </div>
+                        </div>
+            <div class="rating-distribution-wrap">
+    <div class="rating-distribution" id="rating-distribution">
+            <h2>Rating details</h2>
+            <div class="stars">
+    <span class="star full-star"></span>
+    <span class="star full-star"></span>
+    <span class="star full-star"></span>
+    <span class="star half-star"></span>
+    <span class="star "></span>
+    </div>
+<div class="rating_count_and_value">
+               <div itemprop="ratingValue">
+                   3.61 out of 5 stars</div>
+               <span class="rating-separator">-</span>
+                <span class="rating-count">
+                    4,062 ratings</span>
+           </div>
+
+            <div class="rating-distribution-entry">
+
+                    <span class="rating-distribution-index">
+                        5</span>
+
+                    <span class="star full-star"></span>
+
+                    <span class="rating-distribution-bar-wrap">
+                        <span class="bar" data-percentage="18.75923190546529"></span>
+                    </span>
+
+                    19% (762)</div>
+            <div class="rating-distribution-entry">
+
+                    <span class="rating-distribution-index">
+                        4</span>
+
+                    <span class="star full-star"></span>
+
+                    <span class="rating-distribution-bar-wrap">
+                        <span class="bar" data-percentage="37.346134908911864"></span>
+                    </span>
+
+                    37% (1,517)</div>
+            <div class="rating-distribution-entry">
+
+                    <span class="rating-distribution-index">
+                        3</span>
+
+                    <span class="star full-star"></span>
+
+                    <span class="rating-distribution-bar-wrap">
+                        <span class="bar" data-percentage="32.49630723781389"></span>
+                    </span>
+
+                    32% (1,320)</div>
+            <div class="rating-distribution-entry">
+
+                    <span class="rating-distribution-index">
+                        2</span>
+
+                    <span class="star full-star"></span>
+
+                    <span class="rating-distribution-bar-wrap">
+                        <span class="bar" data-percentage="8.517971442639094"></span>
+                    </span>
+
+                    9% (346)</div>
+            <div class="rating-distribution-entry">
+
+                    <span class="rating-distribution-index">
+                        1</span>
+
+                    <span class="star full-star"></span>
+
+                    <span class="rating-distribution-bar-wrap">
+                        <span class="bar" data-percentage="2.880354505169867"></span>
+                    </span>
+
+                    3% (117)</div>
+            </div>
+    </div>
+<div class="ratings-credit-wrap">
+                    <div class="ratings-credit">
+                            Book ratings by <span id="goodreads-credit"> Goodreads</span></div>
+                        <div class="goodreads-credit-extended">
+                            <a class="exit-to-goodreads" href="/external/GR/38589832" target="_blank">Goodreads</a> is the world's largest site for readers with over 50 million reviews. We're featuring millions of their reader ratings on our book pages to help you find your new favourite book.<span class="goodreads-close">
+                        Close</span>
+                            <span class="goodreads-close-x">
+                         X</span>
+                        </div>
+                    </div>
+            </div>
+    </div>
+
+    </div>
+    <div class="footer-top">
+            </div>
+    <div class="footer-social-wrap">
+            <h4>
+                Follow us</h4>
+            <ul class="social-btns">
+                <li>
+                    <a rel="nofollow noopener noreferrer" href="http://www.facebook.com/bookdepository"
+                       aria-label="Book Depository Facebook" target="_blank">
+                        <i class="icon-fb"></i>
+                    </a>
+                </li>
+                <li>
+                    <a rel="nofollow noopener noreferrer" href="http://twitter.com/bookdepository"
+                       aria-label="Book Depository Twitter" target="_blank">
+                        <i class="icon-tw"></i>
+                    </a>
+                </li>
+                <li>
+                    <a rel="nofollow noopener noreferrer" href="http://pinterest.com/bookdepository/"
+                       aria-label="Book Depository Pinterest" target="_blank">
+                        <i class="icon-pi"></i>
+                    </a>
+                </li>
+                <li>
+                    <a rel="nofollow noopener noreferrer" href="https://www.instagram.com/bookdepository"
+                       aria-label="Book Depository Instagram" target="_blank">
+                        <i class="icon-in"></i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    <div class="footer-wrap">
+        <footer class="footer">
+            <div class="footer-left-content hide-on-mobile">
+                <section class="footer-links">
+                    <h4>Explore</h4>
+                    <ul>
+                        <li><a rel="nofollow" href="/about-us">
+                                About us</a></li>
+                            <li><a href="/sitemap">
+                                Sitemap</a></li>
+                            <li><a href="/bookmarks">
+                                Bookmarks</a></li>
+                        <li><a href="/account/login/to/account" class="footer-sign-in-link">
+                                    Sign in/Join</a></li>
+                            </ul>
+                </section>
+                <section class="footer-links">
+                    <h4>How can we help?</h4>
+                    <ul>
+                        <li>
+                            <a rel="nofollow" href="/help">
+                                Help</a>
+                        </li>
+                        <li>
+                            <a href="/contactus">
+                                Contact us</a>
+                        </li>
+                        <li>
+                            <a rel="nofollow"
+                               href="/help/topic/HelpId/2/When-will-my-order-arrive#helpContent">
+                                Where's my stuff?</a>
+                        </li>
+                        <li>
+                                <a rel="nofollow"
+                                   href="/help/topic/HelpId/3/Which-countries-do-you-deliver-to#helpContent">
+                                    Where do you deliver?</a>
+                            </li>
+                        <li>
+                            <a rel="nofollow"
+                               href="/cancelorder">
+                                Cancel my order</a>
+                        </li>
+                        <li>
+                            <a rel="nofollow"
+                               href="/help/topic/HelpId/30#helpContent">
+                                Return my order</a>
+                        </li>
+                    </ul>
+                </section>
+                <section class="footer-links">
+                    <h4>Important stuff</h4>
+                    <ul>
+                        <li>
+                            <a rel="nofollow"
+                               href="/help/topic/HelpId/Complaints#helpContent">
+                                Complaints</a>
+                        </li>
+                        <li>
+                            <a rel="nofollow"
+                               href="/help/topic/HelpId/53/How-we-use-cookies#helpContent">
+                                Cookies</a>
+                        </li>
+                        <li>
+                            <a rel="nofollow"
+                               href="/help/topic/HelpId/20/Our-privacy-policy#helpContent">
+                                Privacy policy</a>
+                        </li>
+                        <li>
+                            <a rel="nofollow"
+                               href="/help/topic/HelpId/19/Terms-and-Conditions#helpContent">
+                                Terms &amp; Conditions</a>
+                        </li>
+                        </ul>
+                </section>
+            </div>
+
+            <div class="footer-left-content show-only-mobile">
+                <div class="footer-links">
+                    <ul>
+                        <li><a rel="nofollow" href="/account/login/to/account"
+                                       class="footer-sign-in-link">
+                                    Sign in/Join</a></li>
+                            <li><a href="/track">
+                            Order Status</a></li>
+                        <li><a href="/contactus">
+                            Contact us</a></li>
+                        <li><a href="/help">
+                            Help</a></li>
+                        <li><a rel="nofollow" href="/about-us">
+                            About us</a></li>
+                        <li><a rel="nofollow" href="/help/topic/HelpId/19/Terms-and-Conditions">
+                            Terms &amp; Conditions</a></li>
+                        <li><a rel="nofollow" href="/help/topic/HelpId/20/Our-privacy-policy">
+                            Privacy policy</a></li>
+                        <li><a rel="nofollow" href="/help/topic/HelpId/53/How-we-use-cookies">
+                            Cookies</a></li>
+                        </ul>
+                </div>
+            </div>
+
+            <div class="footer-right-content">
+                <div class="payment-methods">
+                        <p>We accept these payment methods </p>
+                        <img class="lazy" data-lazy="https://d3ogvdx946i4sr.cloudfront.net/assets/v2.25.102/img/payment-options.png"
+                             alt="Payment methods" class="method-img">
+                    </div>
+                <div class="small-print">
+                    <i class="icon-bd"></i>
+                    <div id="copyright" class="text" title="BdiMetadata{webserver=&#039;web-bdi-load-2022-1&#039;, requestTime=&#039;0.05 sec&#039;, userSessionCurrencyCode=&#039;EUR&#039;, userSessionCountry=&#039;PT&#039;, userIp=&#039;94.63.39.118&#039;, cacheParams=BdiCacheMetadata{cacheCountry=&#039;null&#039;, cacheCurrency=&#039;null&#039;, controllerName=&#039;null&#039;, actionName=&#039;null&#039;, moduleName=&#039;null&#039;, serverScheme=&#039;null&#039;, cacheNamespace=&#039;null&#039;, cacheKey=&#039;null&#039;, generatedOn=Wed Apr 05 09:16:11 UTC 2023, cacheEnabled=true}}">
+                        &copy; 2023&nbsp;
+                        The Book Depository Ltd.UK.<br>Registered company number: 5124926</div>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script>
+      window.appJsSrc = "https://d3ogvdx946i4sr.cloudfront.net/assets/v2.25.102/js/app.js";
+    </script>
+    <script type="text/javascript">
+      csmWidgetStart('firstload-js-download');
+    </script>
+    <script async src="https://d3ogvdx946i4sr.cloudfront.net/assets/v2.25.102/js/firstload.js" onload="csmWidgetEnd('firstload-js-download');"
+            crossorigin="anonymous"></script>
+    <script type="text/javascript">document.body.className += " js";</script>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+<div id="bd_js_translations" hidden>{"bd_js_shop":"Shop","bd_js_too_long_for_shipping_label":"Sorry, that&#39;s too long for our shipping labels","bd_js_why_are_you_leaving":"Why are you leaving?","bd_announcement_title":"Announcement","bd_omnibus_ph1_price_statement_suffix":"vs RRP","bd_js_too_long":"Sorry, that&#39;s too long","bd_js_could_not_find_address_try_again":"Sorry, we couldn&#39;t find the address. Please try again","bd_js_lack_of_reviews":"Lack of reviews","bd_saving_percent_off":"{0}%&lt;br&gt;off","bd_js_missing_book_information":"Missing book information or cover","bd_js_total_basket_count":"{0, plural, one {You have &lt;b&gt;&lt;span class=&#39;item-count&#39;&gt;1&lt;/span&gt; &lt;span class=&#39;item-text&#39;&gt;item&lt;/span&gt;&lt;/b&gt; in your basket} other {You have &lt;b&gt;&lt;span class=&#39;item-count&#39;&gt;#&lt;/span&gt; &lt;span class=&#39;item-text&#39;&gt;items&lt;/span&gt;&lt;/b&gt; in your basket}}","bd_js_total_cost":"Total cost: &lt;b class=&#39;pink-text big total&#39;&gt;{0}&lt;/b&gt;","bd_js_show_less":"show less","bd_try_abe_books":"Try AbeBooks","bd_js_item_added_to_your_basket":"Item added to your basket","bd_js_quick_view":"Quick View","bd_js_lack_of_inside_images":"Lack of inside images","bd_rrp":"RRP","bd_link_prefix":"","bd_js_wrong_book_information":"Wrong book information or cover","bd_js_unable_get_address_enter_manually":"Sorry, we are unable to get the address. Please enter manually:","bd_js_keep_typing_to_refine_search_results":"Keep typing to refine the search results","bd_pre_order":"Pre-order","bd_js_top_categories":"Top Categories","bd_price_save":"Save {0}","bd_notify_me":"Notify me","bd_js_name_only_letters":"Sorry, full name can only contain letters","bd_js_show_more":"show more","bd_js_enter_valid_email_address":"Please enter a valid email address","bd_js_delivery_time":"Delivery time","bd_js_enter_address_manually":"Enter address manually","bd_js_more_categories":"More Categories","bd_30_day_low_price_carousel":"30-day low price","bd_closure_announcement":"&lt;p&gt;We are sorry to let you know that &lt;b&gt;Book Depository will be closing on 26 April 2023&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;You can still place orders until &lt;b&gt;midday (12pm BST) on 26 April 2023&lt;/b&gt; and we will continue to deliver your purchases and provide support for any order issues until &lt;bold&gt;23 June 2023&lt;/bold&gt;.&lt;/p&gt;&lt;p&gt;From all of us at Book Depository we want to say &amp;quot;thank you&amp;quot;. Delivering your favourite reads to you since 2007 has been a pleasure.&lt;/p&gt;&lt;p&gt;You\u2019ll find more info in &lt;b&gt;&lt;a href=&#39;/closure&#39; target=&#39;_blank&#39;&gt;our FAQs&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt;","bd_js_continue_shopping":"Continue Shopping","bd_js_account_and_help":"Account &amp; Help","bd_js_price":"Price","bd_js_basket_checkout":"Basket / Checkout","bd_add_to_basket":"Add to basket","bd_js_enter_first_last_name":"Please enter a first and last name","bd_js_please_enter_your":"Please enter your"}</div>
+
+
+
+<div id="trackingCodeStatus"></div>
+
+<!-- The first Confirmation flag is only present on order confirmation page -->
+  <script async src="https://www.dwin1.com/5487.js" type="text/javascript" defer="defer"> </script>
+    <script async type="text/javascript" defer="defer">
+        if(document.getElementById("trackingCodeStatus")) {
+            document.getElementById("trackingCodeStatus").classList.add("aWinJourneyTagTracked");
+        }
+    </script>
+    <script type="text/javascript">
+        var iCookieLength = 30; // Cookie length in days
+        var sCookieName = "source"; // Name of the first party cookie to utilise for last click referrer de-duplication
+        var sSourceParameterName = "source"; // The parameter used by networks and other marketing channels to tell you who drove the traffic
+        var domain = "example.com"; // top level domain
+
+        var _getQueryStringValue = function (sParameterName) {
+            var aQueryStringPairs = document.location.search.substring(1).split("&");
+            for (var i = 0; i < aQueryStringPairs.length; i++) {
+                var aQueryStringParts = aQueryStringPairs[i].split("=");
+                if (sParameterName.toLowerCase() == aQueryStringParts[0].toLowerCase()) {
+                    return aQueryStringParts[1];
+                }
+            }
+        };
+
+        var _setCookie = function (sCookieName, sCookieContents, iCookieLength, tlDomain) {
+            var dCookieExpires = new Date();
+            dCookieExpires.setTime(dCookieExpires.getTime() + (iCookieLength * 24 * 60 * 60 * 1000));
+            document.cookie = sCookieName + "=" + sCookieContents + "; expires=" + dCookieExpires.toGMTString() +";domain=" + tlDomain + "; path=/;";
+        };
+
+        if (_getQueryStringValue(sSourceParameterName)) {
+            _setCookie(sCookieName, _getQueryStringValue(sSourceParameterName), iCookieLength, domain);
+        }
+    </script>
+
+<script type="text/javascript">
+    function loadZopim(path, caller) {
+        window.$zopim || (function(d, s) {
+            var z = window.$zopim = function(c) {
+                z._.push(c);
+            };
+
+            var $ = z.s = d.createElement(s);
+            var e = d.getElementsByTagName(s)[0];
+            z.set = function(o) {
+                z.set._.push(o);
+            };
+            z._ = [];
+            z.set._ = [];
+            $.async = !0;
+            $.setAttribute('charset', 'utf-8');
+            $.src = '//v2.zopim.com/?2idAW3AKZ28UUWgitXg7WMvt1MrRI4pX';
+            z.t = +new Date();
+            $.type = 'text/javascript';
+            e.parentNode.insertBefore($, e);
+        })(document, 'script');
+
+        $zopim(function() {
+            if (sessionStorage.getItem('showZopimHomepage') == null) {
+                sessionStorage.setItem('showZopimHomepage', Math.floor(Math.random() * 101) < 60);
+            }
+
+            if (path.includes(caller.stringLocalizer.localizedLink('/contactus')) ||
+                path.includes(caller.stringLocalizer.localizedLink('/help')) ||
+                path.startsWith(caller.stringLocalizer.localizedLink('/help/topic/')) ||
+                (path == caller.stringLocalizer.localizedLink('/') && sessionStorage.getItem('showZopimHomepage') == "true")) {
+
+                $zopim.livechat.theme.setColor('#4C394E');
+
+                var first_time = true;
+                $zopim.livechat.setOnStatus(function(status) {
+
+                    if (!first_time) return;
+
+                    first_time = false;
+                    if (status == 'online') {
+                        $zopim.livechat.button.show();
+                    } else if ($zopim.livechat.isChatting() == "false") {
+                        $zopim.livechat.button.hide();
+                    }
+                });
+
+                $zopim.livechat.setOnChatStart(function() {
+                    if ($zopim.livechat.isChatting() == "true") {
+                        $zopim.livechat.window.show();
+                        $zopim.livechat.bubble.show();
+                    }
+                });
+
+                $zopim.livechat.window.onHide(function() {
+                    $zopim.livechat.button.show();
+                });
+
+                $zopim.livechat.window.onShow(function() {
+                    $zopim.livechat.window.show();
+                });
+
+                if ($zopim.livechat.window.getDisplay() == "true") {
+                    $zopim.livechat.hideAll();
+                }
+
+            } else {
+                $zopim.livechat.hideAll();
+            }
+
+        });
+    }
+</script></body>
+</html>
