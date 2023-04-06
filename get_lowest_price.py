@@ -6,7 +6,7 @@ from random import randint
 from time import sleep
 
 wishlist = pd.read_csv('wishlist.csv', delimiter=';')
-
+wishlist.drop(columns='Notes', inplace=True)
 #BOOK DEPOSITORY
 
 #Since I'm assuming the input is a Book Depository wishlist, I don't include error handling for the case in which the book might not exist in the database.
@@ -30,6 +30,7 @@ for item in wishlist['ISBN']:
             price_string = soup.find("span", class_ = "sale-price").text
             price = float(price_string.replace(",", ".")[:-2])
     price_list_bd.append(price)
+    print("Price is ", price)
     # Waits a few seconds to simulate a user clicking around
     time_to_sleep = randint(1,6)
     print("Sleeping for " + str(time_to_sleep) + " seconds...")
@@ -61,6 +62,7 @@ for item in wishlist['ISBN']:
         else: #Book in catalogue, but out of stock
             price = np.nan
     price_list_bw.append(price)
+    print("Price is ", price)
     # Waits a few seconds to simulate a user clicking around
     time_to_sleep = randint(1,6)
     print("Sleeping for " + str(time_to_sleep) + " seconds...")
