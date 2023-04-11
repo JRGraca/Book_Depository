@@ -6,7 +6,9 @@ from random import randint
 from time import sleep
 
 wishlist = pd.read_csv('wishlist.csv', delimiter=';')
-wishlist.drop(columns='Notes', inplace=True)
+if 'Notes' in wishlist:
+	wishlist.drop(columns='Notes', inplace=True)
+
 #BOOK DEPOSITORY
 
 #Since I'm assuming the input is a Book Depository wishlist, I don't include error handling for the case in which the book might not exist in the database.
